@@ -25,7 +25,6 @@ public class Car {
 		this.model = model;
 	}
 	
-	
 	public String getCarNumber() {
 		return carNumber;
 	}
