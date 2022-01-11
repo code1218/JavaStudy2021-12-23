@@ -10,7 +10,6 @@ public class UserController {
 		userService.insertUser(users);
 		
 		userService.showUsersInfo(users);
-
 	}
 
 }
