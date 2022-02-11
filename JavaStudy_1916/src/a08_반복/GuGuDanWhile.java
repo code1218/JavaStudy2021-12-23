@@ -15,7 +15,7 @@ public class GuGuDanWhile {
 		int num = 1;
 		
 		while(num < 10) {
-			System.out.println("2 X " + num + " = " + (2*num));
+			System.out.println("2 X " + (num) + " = " + (2*(num)));
 			num++;
 		}
 
